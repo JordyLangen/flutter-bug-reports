@@ -1,0 +1,4 @@
+#Thu Apr 01 14:41:13 CEST 2021
+base.0=/Users/jordy.langensignify.com/projects/flutter_bug_reports/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
